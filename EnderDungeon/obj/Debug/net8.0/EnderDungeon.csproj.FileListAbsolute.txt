@@ -1,0 +1,14 @@
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\EnderDungeon.exe
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\EnderDungeon.deps.json
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\EnderDungeon.runtimeconfig.json
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\EnderDungeon.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\EnderDungeon.pdb
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.AssemblyInfoInputs.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.AssemblyInfo.cs
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.csproj.CoreCompileInputs.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\refint\EnderDungeon.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.pdb
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.genruntimeconfig.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\ref\EnderDungeon.dll
