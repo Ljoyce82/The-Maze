@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\EnderDungeon.csproj",
-      "projectName": "EnderDungeon",
-      "projectPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\EnderDungeon.csproj",
+      "projectUniqueName": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\TheMaze.csproj",
+      "projectName": "TheMaze",
+      "projectPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\TheMaze.csproj",
       "packagesPath": "C:\\Users\\mytra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\obj\\",
       "projectStyle": "PackageReference",

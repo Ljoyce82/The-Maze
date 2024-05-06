@@ -1,0 +1,15 @@
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\TheMaze.exe
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\TheMaze.deps.json
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\TheMaze.runtimeconfig.json
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\TheMaze.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\bin\Debug\net8.0\TheMaze.pdb
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.AssemblyInfoInputs.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.AssemblyInfo.cs
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.csproj.CoreCompileInputs.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.sourcelink.json
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\refint\TheMaze.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.pdb
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\TheMaze.genruntimeconfig.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\ref\TheMaze.dll

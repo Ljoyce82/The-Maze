@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EnderDungeon
+namespace TheMaze
 {
     public class Player
     {
