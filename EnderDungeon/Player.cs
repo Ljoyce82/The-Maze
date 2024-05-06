@@ -33,6 +33,12 @@ namespace EnderDungeon
             int lower = (mods + 1);
             return rng.Next(lower, upper);
         }
+        public int GetCoins()
+        {
+            int upper = (15 * mods + 50);
+            int lower = (10 * mods + 10);
+            return rng.Next(lower, upper);
+        }
 
     }
 }

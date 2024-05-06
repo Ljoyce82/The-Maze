@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnderDungeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfaa72628e69dc54c1da479ddacd5c163ae53983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aefbbaee9653c29a00c10c9d6f4adc2566913bb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnderDungeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnderDungeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

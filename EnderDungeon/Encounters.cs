@@ -187,9 +187,9 @@ namespace EnderDungeon
                 }
                 Console.ReadKey();
 
-            }
-            int coin = rng.Next(10, 50);
-            Console.WriteLine($"As the {name} falls to ground in lump you search it for anything of value, You find {coin} gold. ");
+            }// rewards for winning comabat 
+            int coin = Program.currentPlayer.GetCoins();
+            Console.WriteLine($"As the {name} falls to ground with a thud you search it for anything of value, You find {coin} gold. ");
             Program.currentPlayer.coins += coin;
             Console.ReadKey();
         }
