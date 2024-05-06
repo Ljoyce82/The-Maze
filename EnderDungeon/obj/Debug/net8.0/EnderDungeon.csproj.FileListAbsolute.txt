@@ -12,3 +12,4 @@ C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug
 C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.pdb
 C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.genruntimeconfig.cache
 C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\ref\EnderDungeon.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\EnderDungeon\EnderDungeon\obj\Debug\net8.0\EnderDungeon.sourcelink.json
