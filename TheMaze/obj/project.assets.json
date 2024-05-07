@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\TheMaze.csproj",
+      "projectUniqueName": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\TheMaze.csproj",
       "projectName": "TheMaze",
-      "projectPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\TheMaze.csproj",
+      "projectPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\TheMaze.csproj",
       "packagesPath": "C:\\Users\\mytra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\EnderDungeon\\EnderDungeon\\obj\\",
+      "outputPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mytra\\AppData\\Roaming\\NuGet\\NuGet.Config",

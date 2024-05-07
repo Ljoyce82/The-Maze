@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMaze", "EnderDungeon\TheMaze.csproj", "{29F955D2-D6B8-4AED-A49B-8F87276BA0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMaze", "TheMaze\TheMaze.csproj", "{1838CD57-D8E1-433A-887C-3722FE24B791}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{29F955D2-D6B8-4AED-A49B-8F87276BA0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29F955D2-D6B8-4AED-A49B-8F87276BA0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29F955D2-D6B8-4AED-A49B-8F87276BA0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29F955D2-D6B8-4AED-A49B-8F87276BA0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1838CD57-D8E1-433A-887C-3722FE24B791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1838CD57-D8E1-433A-887C-3722FE24B791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1838CD57-D8E1-433A-887C-3722FE24B791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1838CD57-D8E1-433A-887C-3722FE24B791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D94ACA89-3318-4036-96D8-C6ECAE322DBC}
+		SolutionGuid = {7BE4662F-9F1A-4FBC-8F02-408159F4AA15}
 	EndGlobalSection
 EndGlobal
