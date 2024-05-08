@@ -28,3 +28,6 @@ C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\obj\Debug\net8.0\r
 C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\obj\Debug\net8.0\TheMaze.pdb
 C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\obj\Debug\net8.0\TheMaze.genruntimeconfig.cache
 C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\obj\Debug\net8.0\ref\TheMaze.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\obj\Debug\net8.0\TheMaze.csproj.AssemblyReference.cache
+C:\Users\mytra\Desktop\repos\AdventureFolder\The-Maze\TheMaze\obj\Debug\net8.0\TheMaze.csproj.Up2Date

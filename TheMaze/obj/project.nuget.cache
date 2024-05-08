@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sdbspvT31f5WxxIE65DK2tdW87Y/WpV9cz7nCqCUxey16oDCDc4hsctZnugB5O9Po8MD9M9eQ6xlo96fkbVmSQ==",
+  "dgSpecHash": "ihJWeuw3Jsb3rnc4cMNO2FHaqB9e0Q8B4HYuuEiAlnTtCqD0D7LpPFW8jOw9Jbe4rRgy0YDLWYYB5BUiuQB3oA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\TheMaze.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mytra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

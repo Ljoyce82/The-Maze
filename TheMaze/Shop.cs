@@ -61,6 +61,12 @@ namespace TheMaze
                         Console.ResetColor();
                         return;
 
+                    case "s":
+                        SaveSystem.SavePlayer(player);
+                        Console.WriteLine("You rent a room at the inn and fall asleep");
+                        Environment.Exit(0);
+                        break;
+
                     default:
                         Console.WriteLine("Invalid input! Please try again.");
                         break;

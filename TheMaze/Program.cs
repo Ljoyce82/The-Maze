@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-
-namespace TheMaze
+﻿namespace TheMaze
 {
     class Program
     {
@@ -14,15 +6,72 @@ namespace TheMaze
         public static bool mainLoop = true;
         static void Main(string[] args)
         {
-            Start();
-            Encounters.FirstEncounter();
             while (mainLoop)
+            {
+                DisplayMenu();
+                string input = Console.ReadLine().ToLower();
+
+                switch (input)
+                {
+                    case "n":
+                        StartNewGame();
+                        break;
+                    case "l":
+                        LoadSavedGame();
+                        break;
+                    case "d":
+                        DeleteSavedGame();
+                        break;
+                    case "q":
+                        mainLoop = false;
+                        break;
+                    default:
+                        Console.WriteLine("Invalid input. Please try again.");
+                        break;
+                }
+            }
+        }
+        static void DisplayMenu()
+        {
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.WriteLine("== The Maze ==");
+            Console.WriteLine("N - New Game");
+            Console.WriteLine("L - Load Saved Game");
+            Console.WriteLine("D - Delete Saved Game");
+            Console.WriteLine("Q - Quit");
+            Console.WriteLine("================");
+            Console.WriteLine();
+        }
+
+        static void StartNewGame()
+        {
+            currentPlayer = new Player();
+            Title();
+            Encounters.FirstEncounter();
+            mainLoop = false;
+            while (!mainLoop)
             {
                 Encounters.RandomEncounter();
             }
         }
 
-        static void Start()
+        static void LoadSavedGame()
+        {
+            currentPlayer = SaveSystem.LoadPlayer() ?? currentPlayer;
+            Console.WriteLine("Loaded saved game.");
+            Console.ReadKey();
+        }
+
+        static void DeleteSavedGame()
+        {
+            SaveSystem.DeleteSaveData();
+            Console.WriteLine("Deleted saved game.");
+            Console.ReadKey();
+        }
+
+
+        static void Title()
         {
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine(@"
@@ -73,5 +122,9 @@ namespace TheMaze
         }
 
 
+
     }
 }
+
+
+
