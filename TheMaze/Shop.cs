@@ -57,12 +57,12 @@ namespace TheMaze
                         BuyItem(player, 300, "difficulty");
                         break;
 
-                    case "e":
+                    case "e": //this is where game breaks if loaded a save file..
                         Console.WriteLine("You leave the market and return to the maze!");
                         Console.ResetColor();
                         Console.Clear();
                         Console.WriteLine("You wonder back down the changing corridors hoping to find way out. Then...");
-                        return;
+                        return; //right here it loops back to main menu..ive tried forcing encouter.randomencouters..that dont work
 
                     case "q":
                         SaveSystem.SavePlayer(player);

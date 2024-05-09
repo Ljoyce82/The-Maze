@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|c:\\users\\mytra\\desktop\\repos\\adventurefolder\\the-maze\\themaze\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|c:\\users\\mytra\\desktop\\repos\\adventurefolder\\the-maze\\themaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|c:\\users\\mytra\\desktop\\repos\\adventurefolder\\the-maze\\themaze\\encounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\encounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|c:\\users\\mytra\\desktop\\repos\\adventurefolder\\the-maze\\themaze\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|c:\\users\\mytra\\desktop\\repos\\adventurefolder\\the-maze\\themaze\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|c:\\users\\mytra\\desktop\\repos\\adventurefolder\\the-maze\\themaze\\encounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1838CD57-D8E1-433A-887C-3722FE24B791}|TheMaze\\TheMaze.csproj|solutionrelative:themaze\\encounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\SaveSystem.cs",
               "RelativeDocumentMoniker": "TheMaze\\SaveSystem.cs",
               "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\SaveSystem.cs",
               "RelativeToolTip": "TheMaze\\SaveSystem.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwB8AAAANAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T03:40:24.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Encounters.cs",
               "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Encounters.cs",
               "RelativeDocumentMoniker": "TheMaze\\Encounters.cs",
@@ -60,39 +60,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Player.cs",
               "RelativeDocumentMoniker": "TheMaze\\Player.cs",
               "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Player.cs",
               "RelativeToolTip": "TheMaze\\Player.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T03:37:59.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Program.cs",
               "RelativeDocumentMoniker": "TheMaze\\Program.cs",
               "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Program.cs",
               "RelativeToolTip": "TheMaze\\Program.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T03:37:59.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Shop.cs",
               "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Shop.cs",
               "RelativeDocumentMoniker": "TheMaze\\Shop.cs",
               "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\AdventureFolder\\The-Maze\\TheMaze\\Shop.cs",
               "RelativeToolTip": "TheMaze\\Shop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAoAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwEAAAACDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T03:37:58.472Z",
               "EditorCaption": ""
