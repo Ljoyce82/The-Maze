@@ -23,7 +23,7 @@ namespace TheMaze
                 string json = File.ReadAllText("playerData.json");
                 Player player = JsonConvert.DeserializeObject<Player>(json);
                 Console.WriteLine("Player data loaded successfully.");
-                return player;
+                return player; //can not figure out why when load save it loops main menu..needs to load player to store where they quit.
             }
             else
             {
