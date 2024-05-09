@@ -23,6 +23,7 @@ namespace TheMaze
                 Console.WriteLine("(P)otions:   $20");
                 Console.WriteLine("(D)ifficulty Mod:  $300");
                 Console.WriteLine("(E)xit");
+                Console.WriteLine("Save and (Q)uit");
                 Console.WriteLine("===============================");
 
                 Console.WriteLine($" {player.name}'s Stats");
@@ -59,9 +60,11 @@ namespace TheMaze
                     case "e":
                         Console.WriteLine("You leave the market and return to the maze!");
                         Console.ResetColor();
+                        Console.Clear();
+                        Console.WriteLine("You wonder back down the changing corridors hoping to find way out. Then...");
                         return;
 
-                    case "s":
+                    case "q":
                         SaveSystem.SavePlayer(player);
                         Console.WriteLine("You rent a room at the inn and fall asleep");
                         Environment.Exit(0);

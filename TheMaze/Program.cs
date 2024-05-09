@@ -1,4 +1,6 @@
-﻿namespace TheMaze
+﻿using System;
+
+namespace TheMaze
 {
     class Program
     {
@@ -33,8 +35,15 @@
         }
         static void DisplayMenu()
         {
+            Console.SetWindowSize(Console.WindowWidth * 2, Console.WindowHeight * 2);
+            Console.SetBufferSize(Console.WindowWidth * 1, Console.WindowHeight * 1);
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.DarkCyan;
+            int windowWidth = Console.WindowWidth;
+            int menuWidth = 20; 
+            int leftPadding = (windowWidth - menuWidth) / 2;
+
+            Console.SetCursorPosition(leftPadding, Console.CursorTop);
             Console.WriteLine("== The Maze ==");
             Console.WriteLine("N - New Game");
             Console.WriteLine("L - Load Saved Game");
@@ -49,8 +58,8 @@
             currentPlayer = new Player();
             Title();
             Encounters.FirstEncounter();
-            mainLoop = false;
-            while (!mainLoop)
+            mainLoop = false;  //the only way to get it to stop looping back after first encouter after i added the menu/save  and methods...
+            while (!mainLoop)  //*
             {
                 Encounters.RandomEncounter();
             }
@@ -73,6 +82,7 @@
 
         static void Title()
         {
+            Console.Clear();
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine(@"
                                                                                                                       
@@ -120,9 +130,6 @@
                 " you turn around again to try to come to grips how you\ngot here but mind is foggy and nothing is coming back to you. Just then you hear " +
                 "what sounds like\nrunning water..As you look down the corridor squinting to see what it is.You seem to make small\nhuminoid figure in the hallway to your left taking a piss on the wall. Goblin you would know that smell anywhere!");
         }
-
-
-
     }
 }
 

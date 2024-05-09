@@ -17,10 +17,13 @@ namespace TheMaze
 
         public static void FirstEncounter()
         {
+            Console.WriteLine();
+           // Console.Clear();
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("You sneak up behind the creature and try grab it with out it noticing...");
             Console.WriteLine("The goblin turns and squalls @#$@#%$^%^! you dont speak goblin but\nknow if you don't shut it up theres always more than one! ");
-            Console.ReadKey();
+            Console.ReadKey ();
+            Console.Clear();
             Combat(false, "Goblin", 1, 2);
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -189,6 +192,7 @@ namespace TheMaze
 
             }// rewards for winning comabat 
             int coin = Program.currentPlayer.GetCoins();
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine($"As the {name} falls to ground with a thud you search it for anything of value, You find {coin} gold. ");
             Program.currentPlayer.coins += coin;
             Console.ReadKey();
